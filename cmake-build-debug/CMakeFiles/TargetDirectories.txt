@@ -1,0 +1,3 @@
+/home/nico/F1-project/cmake-build-debug/CMakeFiles/F1_championship.dir
+/home/nico/F1-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nico/F1-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
